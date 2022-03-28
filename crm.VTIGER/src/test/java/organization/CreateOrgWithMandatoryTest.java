@@ -2,7 +2,7 @@ package organization;
 
 import org.testng.annotations.Test;
 
-public class CreateOrgWithMandatory {
+public class CreateOrgWithMandatoryTest {
 	
 	@Test
 	public void createOrgWithInd() {
